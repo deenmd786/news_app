@@ -1,0 +1,43 @@
+# Dependencies - Never commit these as they are rebuilt via npm/yarn installs
+node_modules/
+jspm_packages/
+web_modules/
+
+# Environment Variables - Contains private API keys and passwords
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Logs - Application and package manager runtime outputs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Build and Compilation Outputs - Production code distributions
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# Testing and Coverage - Local testing report generation
+coverage/
+*.lcov
+.nyc_output/
+
+# IDE, Editors, and OS Files - Personal machine metadata
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
