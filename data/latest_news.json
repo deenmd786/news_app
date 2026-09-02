@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-09-02T21:27:45.370Z",
-  "totalCount": 61,
+  "updatedAt": "2026-09-02T21:33:52.534Z",
+  "totalCount": 65,
   "articles": [
+    {
+      "id": "7a9876050fd5c8a1",
+      "title": "Nainital Landslide Update:  नैनीताल में भयंकर लैंडस्लाइड ! Breaking News | Uttrakhand",
+      "summary": "Nainital Landslide Update: नैनीताल में भयंकर लैंडस्लाइड ! Breaking News | Uttrakhand",
+      "link": "https://www.youtube.com/watch?v=rovJDLdX18k",
+      "source": "Zee News",
+      "category": "Technology",
+      "media": {
+        "image": "https://img.youtube.com/vi/rovJDLdX18k/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=rovJDLdX18k",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:25:30.000Z"
+    },
+    {
+      "id": "c376b2c7e6c8e756",
+      "title": "Haridwar Rishikesh Sanskrit Nagri: धर्म नगरी बनेगी ‘संस्कृत नगरी’  ! Breaking News",
+      "summary": "Haridwar Rishikesh Sanskrit Nagri: धर्म नगरी बनेगी ‘संस्कृत नगरी’ ! Breaking News",
+      "link": "https://www.youtube.com/watch?v=6Y3iBmdDdSc",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/6Y3iBmdDdSc/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=6Y3iBmdDdSc",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:15:13.000Z"
+    },
+    {
+      "id": "1cb3a4d8eb9ee6c1",
+      "title": "#dnashorts कांग्रेस..अब क्रिश्चियन में 'दलित' ढूंढ रही है! #keralam #congress #christian",
+      "summary": "#dnashorts कांग्रेस..अब क्रिश्चियन में 'दलित' ढूंढ रही है! #keralam #congress #christian",
+      "link": "https://www.youtube.com/shorts/8gO9k5IJST0",
+      "source": "Zee News",
+      "category": "Politics",
+      "media": {
+        "image": "https://i.ytimg.com/vi/8gO9k5IJST0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBDfh6AI-CcYbAxZDeSWlcEU6697g&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T21:15:02.000Z"
+    },
+    {
+      "id": "8a1cdb51b74978bb",
+      "title": "Sco Summit : SCO समिट में दुनिया भर से आए मेहमानों को किर्गिस्तान ने खिलाया  ट्रेडिशनल व्यंजन !",
+      "summary": "Sco Summit : SCO समिट में दुनिया भर से आए मेहमानों को किर्गिस्तान ने खिलाया ट्रेडिशनल व्यंजन !",
+      "link": "https://www.youtube.com/watch?v=OPEiPE7XmqY",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/OPEiPE7XmqY/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=OPEiPE7XmqY",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:05:28.000Z"
+    },
     {
       "id": "9a36d625e93a1db3",
       "title": "Breaking News: हथनीकुंड बैराज में बड़ा हादसा! सेना की नाव पलटी, 2 जवान लापता",
@@ -52,7 +108,7 @@
       "source": "Zee News",
       "category": "General News",
       "media": {
-        "image": "https://i.ytimg.com/vi/xJ8rVhGITzY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUu6PNscizaBtaoOsKGzqy5Ec3QA&usqp=CCk",
+        "image": "https://i.ytimg.com/vi/xJ8rVhGITzY/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLDtpjsQOF5ZZOfwxBO5KtnMaDDPvQ&usqp=CCk",
         "video": null,
         "videoType": null
       },
@@ -486,7 +542,7 @@
       "source": "India TV",
       "category": "General News",
       "media": {
-        "image": "https://i.ytimg.com/vi/dMPpMBrWcuw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLANDA2cqr-6dLuUfB3tmtW1u2c1Zw",
+        "image": "https://i.ytimg.com/vi/dMPpMBrWcuw/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLB5fySdyvB2HKcHfeHOmYZAj3MByw",
         "video": null,
         "videoType": null
       },
@@ -808,7 +864,7 @@
       "source": "Aaj Tak",
       "category": "Politics",
       "media": {
-        "image": "https://i.ytimg.com/vi/hfHe3hiFBgA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAdhiHhWgzRz8Qp4rqt8mYVxqK9Rg&usqp=CCk",
+        "image": "https://i.ytimg.com/vi/hfHe3hiFBgA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDCiDBKvsLUFpoggkj61aJ7CufNCA&usqp=CCk",
         "video": null,
         "videoType": null
       },
