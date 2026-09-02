@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-09-02T21:33:52.536Z",
-  "totalCount": 65,
+  "updatedAt": "2026-09-02T22:10:29.837Z",
+  "totalCount": 70,
   "articles": [
+    {
+      "id": "19dc410f0ab5f050",
+      "title": "#dnashorts '4 लेन हाईवे' के बाद...अब '4 लेन ट्रेन' #IndianRailways #RailwayNews #RailwayUpdate",
+      "summary": "#dnashorts '4 लेन हाईवे' के बाद...अब '4 लेन ट्रेन' #IndianRailways #RailwayNews #RailwayUpdate",
+      "link": "https://www.youtube.com/shorts/ZF3BOZHXqz4",
+      "source": "Zee News",
+      "category": "Technology",
+      "media": {
+        "image": "https://i.ytimg.com/vi/ZF3BOZHXqz4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBDJAYVWcD115X9RBmujSXSfx_l1g&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T22:00:26.000Z"
+    },
+    {
+      "id": "0b89644ad8a9df69",
+      "title": "Bhiwadi Fake Medicine Raid: भिवाड़ी में 4 करोड़ की अवैध दवाइयां जब्त! Breaking News",
+      "summary": "Bhiwadi Fake Medicine Raid: भिवाड़ी में 4 करोड़ की अवैध दवाइयां जब्त! Breaking News",
+      "link": "https://www.youtube.com/watch?v=l5bFZGWXZQ8",
+      "source": "Zee News",
+      "category": "Technology",
+      "media": {
+        "image": "https://img.youtube.com/vi/l5bFZGWXZQ8/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=l5bFZGWXZQ8",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:55:19.000Z"
+    },
+    {
+      "id": "044e5c86ead296c2",
+      "title": "Trump Says Ready For Another Summit With Putin For Ukraine \"Peace Deal\"",
+      "summary": "Trump said he wanted the United States to maintain good relations with both Russia and Ukraine, arguing that improved ties would also be beneficial for business.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-says-ready-for-another-summit-with-vladimir-putin-for-ukraine-peace-deal-11994710#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://tse1.mm.bing.net/th/id/OIF.hxlF0Kkl1b5RCeTLU1ephw?w=322&h=181&c=7&r=0&o=5&pid=1.7",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T21:47:25.000Z"
+    },
+    {
+      "id": "ca9c6c6031dcad22",
+      "title": "UP-Bihar Weather Alert: यूपी-बिहार में भयंकर तूफान का बड़ा अलर्ट! Breaking News",
+      "summary": "UP-Bihar Weather Alert: यूपी-बिहार में भयंकर तूफान का बड़ा अलर्ट! Breaking News",
+      "link": "https://www.youtube.com/watch?v=9MpMMKJFbgc",
+      "source": "Zee News",
+      "category": "Science & Environment",
+      "media": {
+        "image": "https://img.youtube.com/vi/9MpMMKJFbgc/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=9MpMMKJFbgc",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:30:24.000Z"
+    },
     {
       "id": "7a9876050fd5c8a1",
       "title": "Nainital Landslide Update:  नैनीताल में भयंकर लैंडस्लाइड ! Breaking News | Uttrakhand",
@@ -59,6 +115,20 @@
       "publishedAt": "2026-09-02T21:05:28.000Z"
     },
     {
+      "id": "931485f96033b6b1",
+      "title": "\"Children Need Teachers\": New York City Schools Ban AI Use For Students",
+      "summary": "Mayor Zohran Mamdani told reporters on Wednesday that schools would halt the current use of about 40 educational tools in New York City classrooms.",
+      "link": "https://www.ndtv.com/world-news/new-york-city-schools-ban-ai-use-for-students-11994649#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://tse3.mm.bing.net/th/id/OIP.w8V48B6i2OXX4M5-fbe5igHaEJ?w=302&h=180&c=7&r=0&o=5&pid=1.7",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T21:04:40.000Z"
+    },
+    {
       "id": "9a36d625e93a1db3",
       "title": "Breaking News: हथनीकुंड बैराज में बड़ा हादसा! सेना की नाव पलटी, 2 जवान लापता",
       "summary": "Breaking News: हथनीकुंड बैराज में बड़ा हादसा! सेना की नाव पलटी, 2 जवान लापता",
@@ -108,7 +178,7 @@
       "source": "Zee News",
       "category": "General News",
       "media": {
-        "image": "https://i.ytimg.com/vi/xJ8rVhGITzY/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLDtpjsQOF5ZZOfwxBO5KtnMaDDPvQ&usqp=CCk",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.0Az_Q7mqBwp18QASlOvZOgHaJ4?w=115&h=180&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -206,7 +276,7 @@
       "source": "NDTV English",
       "category": "Crime",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-09/odbmduss_firing-at-mohali-solan_625x300_03_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse1.mm.bing.net/th/id/OIP.eTQ5mdRi0_3cKAt94GsJhAHaHa?w=200&h=200&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -346,7 +416,7 @@
       "source": "NDTV English",
       "category": "Crime",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-09/2shof5nc_up-floods_625x300_03_September_26.jpeg",
+        "image": "https://tse1.mm.bing.net/th/id/OIP.nhUfDiM8UsdQv0293SNecQHaHa?w=185&h=185&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -360,7 +430,7 @@
       "source": "NDTV English",
       "category": "Technology",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-06/28sj891k_donald-trump-afp_625x300_12_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse3.mm.bing.net/th/id/OIP.WEIwskIXJuxuv3TP59BKxwHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -374,9 +444,9 @@
       "source": "NDTV English",
       "category": "Technology",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-04/kdbpguuk_trump-mojtaba_625x300_07_April_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "video": "https://x.com/CENTCOM/status/2094826294466810366?ref_src=twsrc%5Etfw",
-        "videoType": "twitter"
+        "image": "https://tse4.mm.bing.net/th/id/OIP.8-PtiXM2mYCxen3hJh4rTAHaEx?w=254&h=180&c=7&r=0&o=5&pid=1.7",
+        "video": null,
+        "videoType": null
       },
       "publishedAt": "2026-09-02T18:56:20.000Z"
     },
@@ -388,7 +458,7 @@
       "source": "NDTV English",
       "category": "Technology",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-09/fipia6tk_air-marshal-jitendra-mishra_650x400_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse4.mm.bing.net/th/id/OIP.hAD2bFcjGBZS1KiOccBvzAHaHa?w=197&h=197&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -402,7 +472,7 @@
       "source": "NDTV English",
       "category": "Crime",
       "media": {
-        "image": "https://c.ndtvimg.com/2024-09/f7jpjr28_delhi-high-court_625x300_21_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse3.mm.bing.net/th/id/OIP.ul0XhpkgSwrwe8_q44smbgHaE8?w=215&h=180&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -416,7 +486,7 @@
       "source": "NDTV English",
       "category": "Business",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-05/mt6fcvf8_cbi-genric_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse1.mm.bing.net/th/id/OIP.IQysE456bB6XJmezZt0XAQHaHa?w=189&h=189&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -430,7 +500,7 @@
       "source": "NDTV English",
       "category": "Crime",
       "media": {
-        "image": "https://c.ndtvimg.com/2026-09/df0h10h_interview_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "image": "https://tse3.mm.bing.net/th/id/OIP.HipoHSxDFeiuiVlaqUz63QAAAA?w=276&h=180&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -542,7 +612,7 @@
       "source": "India TV",
       "category": "General News",
       "media": {
-        "image": "https://i.ytimg.com/vi/dMPpMBrWcuw/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLB5fySdyvB2HKcHfeHOmYZAj3MByw",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.m0g5eGB3GYSlO1ujVKx8ZAHaFj?w=212&h=180&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
@@ -850,7 +920,7 @@
       "source": "Aaj Tak",
       "category": "General News",
       "media": {
-        "image": "https://i.ytimg.com/vi/12IEqn-6zw0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDxpJvOGTthwSQAYuZSbQcBWrI1FA&usqp=CCk",
+        "image": "https://tse4.mm.bing.net/th/id/OIP.F4Hmf5stauwM0F9NlmW-eAHaEL?w=332&h=187&c=7&r=0&o=5&pid=1.7",
         "video": null,
         "videoType": null
       },
