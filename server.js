@@ -20,10 +20,13 @@ app.get('/api/news/latest', async (req, res) => {
         if (!data) {
             console.log("Initial load. Fetching data...");
             const freshArticles = await fetchAllNews();
-            data = await saveNewsData(freshArticles);
+            const savedData = await saveNewsData(freshArticles); // 👈 Updated
 
-            // 🚀 PUSH TO GITHUB
-            await pushToGitHub(data);
+            // 🚀 PUSH BOTH INDEPENDENT FILES TO GITHUB
+            await pushToGitHub(savedData.latestPayload, 'data/latest_news.json');
+            await pushToGitHub(savedData.dailyPayload, `data/news_${savedData.today}.json`);
+
+            data = savedData.latestPayload;
         }
 
         const { category, limit } = req.query;
@@ -47,18 +50,20 @@ app.post('/api/news/refresh', async (req, res) => {
     try {
         console.log("🔄 Manual refresh triggered...");
         const newArticles = await fetchAllNews();
+
+        // फाइल मैनेजर दोनों को अलग-अलग अपेंड (Append) करेगा
         const savedData = await saveNewsData(newArticles);
 
-        // 🚀 PUSH BOTH FILES TO GITHUB
-        const today = new Date().toISOString().split('T')[0];
-        await pushToGitHub(savedData, 'data/latest_news.json');
-        await pushToGitHub(savedData, `data/news_${today}.json`);
+        // 🚀 PUSH BOTH INDEPENDENT FILES TO GITHUB
+        await pushToGitHub(savedData.latestPayload, 'data/latest_news.json');
+        await pushToGitHub(savedData.dailyPayload, `data/news_${savedData.today}.json`);
 
         res.json({
             success: true,
-            message: "News fetched, deduplicated, saved, and pushed to GitHub.",
-            count: savedData.totalCount,
-            updatedAt: savedData.updatedAt
+            message: "News fetched, appended accurately, and pushed to GitHub.",
+            latestCount: savedData.latestPayload.totalCount,
+            dailyCount: savedData.dailyPayload.totalCount,
+            updatedAt: savedData.latestPayload.updatedAt
         });
     } catch (error) {
         res.status(500).json({ success: false, error: error.message });
