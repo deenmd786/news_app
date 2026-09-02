@@ -3,24 +3,46 @@ const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '../../data');
 
-// Ensure the data directory exists
 async function ensureDir() {
+    try { await fs.mkdir(DATA_DIR, { recursive: true }); } catch (err) { }
+}
+
+async function getLatestNews() {
+    await ensureDir();
+    const latestFilePath = path.join(DATA_DIR, 'latest_news.json');
     try {
-        await fs.mkdir(DATA_DIR, { recursive: true });
-    } catch (err) {
-        console.error("Error creating data folder:", err);
+        const fileContent = await fs.readFile(latestFilePath, 'utf-8');
+        return JSON.parse(fileContent);
+    } catch {
+        return null;
     }
 }
 
-// Save news data to both a dated file and latest_news.json
-async function saveNewsData(articles) {
+// 🛡️ DEDUPLICATION & MERGE LOGIC
+async function saveNewsData(newArticles) {
     await ensureDir();
     const today = new Date().toISOString().split('T')[0];
 
+    // Fetch existing articles
+    const existingData = await getLatestNews();
+    const existingArticles = existingData ? existingData.articles : [];
+
+    // Use a Map to prevent duplicates (Key = Article ID)
+    const articleMap = new Map();
+
+    // Add old articles first
+    existingArticles.forEach(art => articleMap.set(art.id, art));
+
+    // Overwrite/Add new articles (keeps the freshest data)
+    newArticles.forEach(art => articleMap.set(art.id, art));
+
+    // Convert Map back to array and sort by Date (Newest first)
+    const mergedArticles = Array.from(articleMap.values()).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
     const payload = {
         updatedAt: new Date().toISOString(),
-        totalCount: articles.length,
-        articles
+        totalCount: mergedArticles.length,
+        articles: mergedArticles
     };
 
     const dateFilePath = path.join(DATA_DIR, `news_${today}.json`);
@@ -29,35 +51,7 @@ async function saveNewsData(articles) {
     await fs.writeFile(dateFilePath, JSON.stringify(payload, null, 2), 'utf-8');
     await fs.writeFile(latestFilePath, JSON.stringify(payload, null, 2), 'utf-8');
 
-    console.log(`📁 News successfully saved to:`);
-    console.log(`   - ${dateFilePath}`);
-    console.log(`   - ${latestFilePath}`);
-
     return payload;
 }
 
-// Read the latest saved news
-async function getLatestNews() {
-    await ensureDir();
-    const latestFilePath = path.join(DATA_DIR, 'latest_news.json');
-    try {
-        const fileContent = await fs.readFile(latestFilePath, 'utf-8');
-        return JSON.parse(fileContent);
-    } catch {
-        return null; // File doesn't exist yet
-    }
-}
-
-// Read news by date (YYYY-MM-DD)
-async function getNewsByDate(dateStr) {
-    await ensureDir();
-    const filePath = path.join(DATA_DIR, `news_${dateStr}.json`);
-    try {
-        const fileContent = await fs.readFile(filePath, 'utf-8');
-        return JSON.parse(fileContent);
-    } catch {
-        return null;
-    }
-}
-
-module.exports = { saveNewsData, getLatestNews, getNewsByDate };
+module.exports = { saveNewsData, getLatestNews };

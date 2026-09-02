@@ -1,40 +1,29 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const { fetchAllNews, fetchOgFallback } = require('./src/services/newsService');
-const { saveNewsData, getLatestNews, getNewsByDate } = require('./src/utils/fileManager');
+const { fetchAllNews } = require('./src/services/newsService');
+const { saveNewsData, getLatestNews } = require('./src/utils/fileManager');
+const { pushToGitHub } = require('./src/services/githubService'); // Import GitHub Service
 
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-// Enable CORS so websites and apps can fetch directly
 app.use(cors());
 app.use(express.json());
 
-// 1. Root overview
-app.get('/', (req, res) => {
-    res.json({
-        service: "News & Media API Server",
-        status: "Active",
-        endpoints: {
-            getLatest: "GET /api/news/latest",
-            getByDate: "GET /api/news/archive?date=YYYY-MM-DD",
-            refreshNow: "POST /api/news/refresh",
-            resolveMedia: "POST /api/news/resolve-og"
-        }
-    });
-});
-
-// 2. GET Latest News (Serves from data/latest_news.json for sub-10ms response times)
+// 1. GET Latest News
 app.get('/api/news/latest', async (req, res) => {
     try {
         let data = await getLatestNews();
 
-        // If no file exists yet, fetch live and create it
+        // If completely empty, fetch, save, and push to GitHub
         if (!data) {
-            console.log("No existing data found. Running initial fetch...");
+            console.log("Initial load. Fetching data...");
             const freshArticles = await fetchAllNews();
             data = await saveNewsData(freshArticles);
+
+            // 🚀 PUSH TO GITHUB
+            await pushToGitHub(data);
         }
 
         const { category, limit } = req.query;
@@ -43,68 +32,39 @@ app.get('/api/news/latest', async (req, res) => {
         if (category) {
             articles = articles.filter(a => a.category.toLowerCase() === category.toLowerCase());
         }
-
         if (limit) {
             articles = articles.slice(0, parseInt(limit, 10));
         }
 
-        res.json({
-            success: true,
-            updatedAt: data.updatedAt,
-            count: articles.length,
-            articles
-        });
+        res.json({ success: true, updatedAt: data.updatedAt, count: articles.length, articles });
     } catch (error) {
         res.status(500).json({ success: false, error: error.message });
     }
 });
 
-// 3. GET Archived News by Date (e.g. ?date=2026-09-02)
-app.get('/api/news/archive', async (req, res) => {
-    try {
-        const date = req.query.date;
-        if (!date) {
-            return res.status(400).json({ success: false, message: "Please provide a 'date' query parameter (YYYY-MM-DD)." });
-        }
-
-        const data = await getNewsByDate(date);
-        if (!data) {
-            return res.status(404).json({ success: false, message: `No data found for date: ${date}` });
-        }
-
-        res.json({ success: true, ...data });
-    } catch (error) {
-        res.status(500).json({ success: false, error: error.message });
-    }
-});
-
-// 4. POST / Refresh Now (Triggers fetch, media extraction, and updates data/ folder)
+// 2. POST / Refresh Now
 app.post('/api/news/refresh', async (req, res) => {
     try {
         console.log("🔄 Manual refresh triggered...");
-        const articles = await fetchAllNews();
-        const saved = await saveNewsData(articles);
+        const newArticles = await fetchAllNews();
+        const savedData = await saveNewsData(newArticles);
+
+        // 🚀 PUSH BOTH FILES TO GITHUB
+        const today = new Date().toISOString().split('T')[0];
+        await pushToGitHub(savedData, 'data/latest_news.json');
+        await pushToGitHub(savedData, `data/news_${today}.json`);
 
         res.json({
             success: true,
-            message: "News and media fetched and saved to data folder successfully.",
-            count: saved.totalCount,
-            updatedAt: saved.updatedAt
+            message: "News fetched, deduplicated, saved, and pushed to GitHub.",
+            count: savedData.totalCount,
+            updatedAt: savedData.updatedAt
         });
     } catch (error) {
         res.status(500).json({ success: false, error: error.message });
     }
 });
 
-// 5. POST / Resolve OG Image (For individual articles missing thumbnails)
-app.post('/api/news/resolve-og', async (req, res) => {
-    const { url } = req.body;
-    if (!url) return res.status(400).json({ error: "URL is required" });
-
-    const media = await fetchOgFallback(url);
-    res.json({ success: true, media });
-});
-
 app.listen(PORT, () => {
-    console.log(`🚀 News Server is running on http://localhost:${PORT}`);
+    console.log(`🚀 News Server running on http://localhost:${PORT}`);
 });
