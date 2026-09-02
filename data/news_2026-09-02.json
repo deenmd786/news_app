@@ -1,7 +1,567 @@
 {
-  "updatedAt": "2026-09-02T21:20:10.184Z",
-  "totalCount": 1,
+  "updatedAt": "2026-09-02T21:27:45.370Z",
+  "totalCount": 61,
   "articles": [
+    {
+      "id": "9a36d625e93a1db3",
+      "title": "Breaking News: हथनीकुंड बैराज में बड़ा हादसा! सेना की नाव पलटी, 2 जवान लापता",
+      "summary": "Breaking News: हथनीकुंड बैराज में बड़ा हादसा! सेना की नाव पलटी, 2 जवान लापता",
+      "link": "https://www.youtube.com/watch?v=A9xsb7fuLcE",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/A9xsb7fuLcE/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=A9xsb7fuLcE",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T21:00:28.000Z"
+    },
+    {
+      "id": "4a218c1fed111966",
+      "title": "Ujjain Mosque Bulldozer Action: लाउडस्पीकर से ऐलान, मदीना मस्जिद पर बवाल! Breaking News",
+      "summary": "Ujjain Mosque Bulldozer Action: लाउडस्पीकर से ऐलान, मदीना मस्जिद पर बवाल! Breaking News",
+      "link": "https://www.youtube.com/watch?v=x7m5Krjj--k",
+      "source": "Zee News",
+      "category": "Technology",
+      "media": {
+        "image": "https://img.youtube.com/vi/x7m5Krjj--k/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=x7m5Krjj--k",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:55:19.000Z"
+    },
+    {
+      "id": "41a542e6ed034f96",
+      "title": "Sunni Mahallu Federation urges Kanthapuram critics to stop interfering in religious matters",
+      "summary": "‘Religious scholars issue rulings for believers who follow them, and such rulings are not imposed on those who do not follow them’",
+      "link": "https://www.thehindu.com/news/national/kerala/sunni-mahallu-federation-urges-kanthapuram-critics-to-stop-interfering-in-religious-matters/article71420381.ece",
+      "source": "The Hindu",
+      "category": "Crime",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/4xpx4a/article71421243.ece/alternates/LANDSCAPE_1200/31_BM_KanthapurGGLGFHO22.3.jpg.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:47:06.000Z"
+    },
+    {
+      "id": "ff67976e608b071b",
+      "title": "DNA Shorts: अयोध्या में राम मंदिर की नई टीम का विश्लेषण | #dna #rammandir",
+      "summary": "DNA Shorts: अयोध्या में राम मंदिर की नई टीम का विश्लेषण | #dna #rammandir",
+      "link": "https://www.youtube.com/shorts/xJ8rVhGITzY",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/xJ8rVhGITzY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUu6PNscizaBtaoOsKGzqy5Ec3QA&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:45:26.000Z"
+    },
+    {
+      "id": "87f851bde68dff78",
+      "title": "Kaushambi Blast Action:  कौशांबी पटाखा फैक्ट्री ब्लास्ट...फरार आरोपियों पर 25-25 हजार का इनाम",
+      "summary": "Kaushambi Blast Action: कौशांबी पटाखा फैक्ट्री ब्लास्ट...फरार आरोपियों पर 25-25 हजार का इनाम",
+      "link": "https://www.youtube.com/watch?v=i3Up8hZzKyg",
+      "source": "Zee News",
+      "category": "World",
+      "media": {
+        "image": "https://img.youtube.com/vi/i3Up8hZzKyg/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=i3Up8hZzKyg",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:37:21.000Z"
+    },
+    {
+      "id": "f75ad10cb86a3c38",
+      "title": "Swine Flu in Amroha: अमरोहा में स्वाइन फ्लू की दस्तक! Breaking News",
+      "summary": "Swine Flu in Amroha: अमरोहा में स्वाइन फ्लू की दस्तक! Breaking News",
+      "link": "https://www.youtube.com/watch?v=NfdXc5_4X-A",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/NfdXc5_4X-A/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=NfdXc5_4X-A",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:35:16.000Z"
+    },
+    {
+      "id": "223dac3faf5a92a5",
+      "title": "Gold worth ₹1 crore hidden in eight-month-old’s diaper seized",
+      "summary": "Gold worth ₹1 crore hidden in eight-month-old’s diaper seized",
+      "link": "https://www.thehindu.com/news/national/kerala/gold-worth-1-crore-hidden-in-eight-month-olds-diaper-seized/article71420577.ece",
+      "source": "The Hindu",
+      "category": "Crime",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/hn3a77/article71421235.ece/alternates/LANDSCAPE_1200/Gold_Biscuits_01.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:31:32.000Z"
+    },
+    {
+      "id": "6df4ce1ada94e0c7",
+      "title": "Kaushambi Blast Action:  कौशांबी... 'पटाखा माफिया' को 2 दिन में बुलडोजर का 2 करोड़ी झटका !",
+      "summary": "Kaushambi Blast Action: कौशांबी... 'पटाखा माफिया' को 2 दिन में बुलडोजर का 2 करोड़ी झटका !",
+      "link": "https://www.youtube.com/watch?v=5gLv309F-0I",
+      "source": "Zee News",
+      "category": "World",
+      "media": {
+        "image": "https://img.youtube.com/vi/5gLv309F-0I/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=5gLv309F-0I",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:30:29.000Z"
+    },
+    {
+      "id": "d1daa091fe8055fc",
+      "title": "Excise forms SIT to probe cases related to seizure of suspected MDMA",
+      "summary": "Investigators to seek custody of four arrested youths",
+      "link": "https://www.thehindu.com/news/national/kerala/excise-forms-sit-to-probe-cases-related-to-seizure-of-suspected-mdma/article71420383.ece",
+      "source": "The Hindu",
+      "category": "Business",
+      "media": {
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:24:00.000Z"
+    },
+    {
+      "id": "598781daf5d47d9a",
+      "title": "Bhopal Talwarbazi Controversy: भोपाल में मुस्लिम महिलाओं ने दिया मुफ्ती के फतवे का जवाब!",
+      "summary": "Bhopal Talwarbazi Controversy: भोपाल में मुस्लिम महिलाओं ने दिया मुफ्ती के फतवे का जवाब!",
+      "link": "https://www.youtube.com/watch?v=GNcI9E2Vwq8",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/GNcI9E2Vwq8/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=GNcI9E2Vwq8",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:20:29.000Z"
+    },
+    {
+      "id": "07bb006d2d812541",
+      "title": "2 Unidentified Gunmen Open Fire At Solan In Punjab's Mohali, Case Filed",
+      "summary": "According to preliminary information, two persons riding a motorcycle arrived outside the salon and allegedly targeted the shop, firing several rounds before fleeing the spot.",
+      "link": "https://www.ndtv.com/india-news/firing-outside-salon-in-punjabs-mohali-case-filed-11994533#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Crime",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-09/odbmduss_firing-at-mohali-solan_625x300_03_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:15:16.000Z"
+    },
+    {
+      "id": "e691d6b3d5823af3",
+      "title": "Hapur Murder Case: हापुड़ में RSS कार्यकर्ता की हत्या! | तेज स्पीड के लिए रोका तो कर दी हत्या ?",
+      "summary": "Hapur Murder Case: हापुड़ में RSS कार्यकर्ता की हत्या! | तेज स्पीड के लिए रोका तो कर दी हत्या ?",
+      "link": "https://www.youtube.com/watch?v=1te5VbOMPVQ",
+      "source": "Zee News",
+      "category": "Crime",
+      "media": {
+        "image": "https://img.youtube.com/vi/1te5VbOMPVQ/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=1te5VbOMPVQ",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:15:04.000Z"
+    },
+    {
+      "id": "b40040bd24318767",
+      "title": "Govt. job aspirants protest outside Uttar Pradesh Deputy CM’s residence over delay in recruitment",
+      "summary": "Candidates seeking recruitment to 3,284 junior assistant typist posts demand completion of the hiring process",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/govt-job-aspirants-protest-outside-uttar-pradesh-deputy-cms-residence-over-delay-in-recruitment/article71420221.ece",
+      "source": "The Hindu",
+      "category": "Politics",
+      "media": {
+        "image": "https://th-i.thgim.com/public/news/cities/Delhi/wil6fs/article71421230.ece/alternates/LANDSCAPE_1200/2_BM_Pathak.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:12:49.000Z"
+    },
+    {
+      "id": "5f6ff9d300b45b0b",
+      "title": "Elderly man dies after falling into abandoned quarry at Angamaly in Keralam",
+      "summary": "According to the first information report registered by the Angamaly police, the man is suspected to have slipped into the water while cutting grass near the quarry",
+      "link": "https://www.thehindu.com/news/national/kerala/elderly-man-dies-after-falling-into-abandoned-quarry-in-angamaly/article71420631.ece",
+      "source": "The Hindu",
+      "category": "Crime",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/khbgdh/article71421231.ece/alternates/LANDSCAPE_1200/IMG_80686_8_9_2023_17_23_2_1_U9BNT1R3.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T20:05:30.000Z"
+    },
+    {
+      "id": "20f910f7450f6ad5",
+      "title": "Breaking News : अयोध्या राम मंदिर पर बड़ा अपडेट I Ram Mandir CEO I Zee News",
+      "summary": "Breaking News : अयोध्या राम मंदिर पर बड़ा अपडेट I Ram Mandir CEO I Zee News",
+      "link": "https://www.youtube.com/watch?v=WsvIJM4kvHk",
+      "source": "Zee News",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/WsvIJM4kvHk/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=WsvIJM4kvHk",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T20:00:11.000Z"
+    },
+    {
+      "id": "6f3b3a76108b118b",
+      "title": "White froth found in Periyar: PCB issues notice to FACT",
+      "summary": "The notice issued based on earlier inferences of suspected discharge of a white gel-like foam into the river, say PCB officials",
+      "link": "https://www.thehindu.com/news/national/kerala/white-froth-found-in-periyar-pcb-issues-notice-to-fact/article71420502.ece",
+      "source": "The Hindu",
+      "category": "Crime",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/f3miec/article71421063.ece/alternates/LANDSCAPE_1200/froth.png",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:57:31.000Z"
+    },
+    {
+      "id": "ec01136da80f98bf",
+      "title": "No uniformity in food prices as traders go their own way",
+      "summary": "District Consumer Protection Committee seeks meeting of Food Advisory Committee to discuss the matter",
+      "link": "https://www.thehindu.com/news/national/kerala/no-uniformity-in-food-prices-as-traders-go-their-own-way/article71419351.ece",
+      "source": "The Hindu",
+      "category": "World",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/9379kf/article71421228.ece/alternates/LANDSCAPE_1200/IMG_iStock-496712044_2_1_GT9SBD6H.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:56:37.000Z"
+    },
+    {
+      "id": "866dd097dcaf2259",
+      "title": "Odisha warns of fresh flooding in Balasore as Subarnarekha rises",
+      "summary": "Heavy rain in neighbouring Jharkhand has swollen Subarnarekha River in Odisha’s Balasore dist",
+      "link": "https://www.thehindu.com/news/national/odisha/odisha-warns-of-fresh-flooding-in-balasore-as-subarnarekha-rises/article71420113.ece",
+      "source": "The Hindu",
+      "category": "Technology",
+      "media": {
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:50:08.000Z"
+    },
+    {
+      "id": "704fc8f741382610",
+      "title": "Congress protests against filing of FIR against Rahul Gandhi",
+      "summary": "Congress protests against filing of FIR against Rahul Gandhi",
+      "link": "https://www.thehindu.com/news/national/karnataka/congress-protests-against-filing-of-fir-against-rahul-gandhi/article71420130.ece",
+      "source": "The Hindu",
+      "category": "Technology",
+      "media": {
+        "image": "https://th-i.thgim.com/public/incoming/nqj1vy/article71420635.ece/alternates/LANDSCAPE_1200/_JAI3492.JPG",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:49:30.000Z"
+    },
+    {
+      "id": "6e7f4ed8b1896b1f",
+      "title": "Mallojula Venugopal Rao alias Bhupati: From dreaded Maoist to Gondwana University coordinator in Gadchiroli",
+      "summary": "After Maoist surrender, Bhupathi turns to tribal rights and Gram Sabha work in Gadchiroli, says ‘conflicts will remain till there there is no radical changes and rehabilitation’",
+      "link": "https://www.thehindu.com/news/national/from-dreaded-maoist-to-gondwana-university-coordinator-in-gadchiroli/article71419656.ece",
+      "source": "The Hindu",
+      "category": "Technology",
+      "media": {
+        "image": "https://th-i.thgim.com/public/news/national/6x0gpj/article71420126.ece/alternates/LANDSCAPE_1200/PXL_20260815_063501497.PORTRAIT.jpg.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:48:45.000Z"
+    },
+    {
+      "id": "af4987fd9572899b",
+      "title": "3 Killed, Over 16,000 Evacuated As Flood Situation Worsens In UP",
+      "summary": "UP Floods: As many as 16,784 people have been evacuated to safety so far, with 3,042 of them rescued on Wednesday, as flood conditions persisted in parts of Uttar Pradesh.",
+      "link": "https://www.ndtv.com/india-news/3-killed-over-16-000-evacuated-as-flood-situation-worsens-in-up-11994491#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Crime",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-09/2shof5nc_up-floods_625x300_03_September_26.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:44:36.000Z"
+    },
+    {
+      "id": "d51913551ba3e1b1",
+      "title": "\"I'm Happy, I Wasn't A Fan\": Trump On Prince Harry, Meghan Leaving US",
+      "summary": "President Donald Trump said Wednesday he was glad Britain's Prince Harry and his American wife Meghan Markle had left the United States, adding that he was no fan.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-on-prince-harry-meghan-leaving-us-11994424#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-06/28sj891k_donald-trump-afp_625x300_12_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T19:27:22.000Z"
+    },
+    {
+      "id": "756e9b9ded6b3eba",
+      "title": "US-Iran War Live Updates: Trump Says Prepared To Strike Iran Again At 'Any Time'",
+      "summary": "Iran war live: Tehran said it launched ballistic missile attacks on two US bases in Jordan, Kuwait, and Bahrain, according toIranian media.",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-live-us-strikes-iran-larak-island-strait-of-hormuz-11979599#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-04/kdbpguuk_trump-mojtaba_625x300_07_April_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": "https://x.com/CENTCOM/status/2094826294466810366?ref_src=twsrc%5Etfw",
+        "videoType": "twitter"
+      },
+      "publishedAt": "2026-09-02T18:56:20.000Z"
+    },
+    {
+      "id": "bc919e1d546ed073",
+      "title": "Ayodhya Ram Temple Gets Air Force Veteran As CEO, 3 New Members",
+      "summary": "Air Marshal Mishra was commissioned in the Indian Air Force as a fighter pilot in December 1986. He retired in May 2026 after serving for over 38 years.",
+      "link": "https://www.ndtv.com/india-news/retired-air-marshal-jitendra-mishra-to-be-ayodhya-ram-temples-new-ceo-11992100#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-09/fipia6tk_air-marshal-jitendra-mishra_650x400_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:54:25.000Z"
+    },
+    {
+      "id": "96cdff4d1bc80206",
+      "title": "Delhi High Court Fines Firm For Demoting Woman After Maternity Leave",
+      "summary": "The court held that a woman returning from maternity leave is ordinarily entitled to be restored to the post she held immediately before going on leave.",
+      "link": "https://www.ndtv.com/india-news/delhi-high-court-fines-firm-for-demoting-woman-after-maternity-leave-11994397#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Crime",
+      "media": {
+        "image": "https://c.ndtvimg.com/2024-09/f7jpjr28_delhi-high-court_625x300_21_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:53:26.000Z"
+    },
+    {
+      "id": "ec9de560bc979fa0",
+      "title": "6 IAS Officers Among 19 Chargesheeted In Rs 504-Crore Scam In Haryana",
+      "summary": "Those named in the latest chargesheet include six IAS officers of the Haryana cadre, three officials of IDFC First Bank, one official of AU Small Finance Bank and nine other Haryana government officials.",
+      "link": "https://www.ndtv.com/india-news/6-ias-officers-among-19-chargesheeted-in-rs-504-crore-scam-in-haryana-11994371#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Business",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-05/mt6fcvf8_cbi-genric_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:52:09.000Z"
+    },
+    {
+      "id": "5c67715573a7118c",
+      "title": "Ex-Chief Economic Adviser Backs GDP Data, Calls Methodology \"Cutting-Edge\"",
+      "summary": "Krishnamurthy V Subramanian dismissed the Opposition's charge that the government deliberately revised last year's GDP numbers downward, so that this year's growth rate would be artificially inflated.",
+      "link": "https://www.ndtv.com/india-news/ex-chief-economic-advisor-backs-gdp-figure-says-new-methodology-cutting-edge-11993637#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Crime",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-09/df0h10h_interview_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:52:06.000Z"
+    },
+    {
+      "id": "a0801ceb51026f2a",
+      "title": "NDTV Ground Report: A Desperate Search For Missing Loved Ones In Flood-Hit Nepal",
+      "summary": "Doctors are finding it hard to scan for fingerprints or other ID marks, while relatives outside hang on to hope that they'll at least get the bodies of their loved ones",
+      "link": "https://www.ndtv.com/world-news/the-search-the-wait-and-the-grief-families-wait-at-hospitals-desperately-searching-for-missing-loved-ones-11994066#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Crime",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-09/7e0fj16s_kathmandu-hospitals_625x300_02_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": "https://x.com/vedikas?ref_src=twsrc%5Etfw",
+        "videoType": "twitter"
+      },
+      "publishedAt": "2026-09-02T18:50:30.000Z"
+    },
+    {
+      "id": "1d4ddcac311e10f3",
+      "title": "Donald Trump Aides, Fearing Midterm Poll Defeat, Push To Keep Iran War 'Quiet': Report",
+      "summary": "For now, they said, the administration is focused on tightening the economic pressure on Iran in an effort to extract concessions in any future negotiation that months of military action failed to secure.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-aides-fearing-midterm-poll-defeat-push-to-keep-iran-war-quiet-report-11994383#publisher=newsstand",
+      "source": "NDTV English",
+      "category": "Technology",
+      "media": {
+        "image": "https://c.ndtvimg.com/2026-03/bd66ftmg_trump-strait-of-hormuz_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:48:26.000Z"
+    },
+    {
+      "id": "4e4ea112d1de5618",
+      "title": "GDP Growth Rate: क्या GDP पर अभी से राहुल का 'नैरेटिव' शुरु ? | Rahul Gandhi | Congress | Economy",
+      "summary": "GDP Growth Rate: क्या GDP पर अभी से राहुल का 'नैरेटिव' शुरु ? | Rahul Gandhi | Congress | Economy",
+      "link": "https://www.youtube.com/watch?v=okssiWXjU7E",
+      "source": "India TV",
+      "category": "Business",
+      "media": {
+        "image": "https://img.youtube.com/vi/okssiWXjU7E/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=okssiWXjU7E",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T18:41:02.000Z"
+    },
+    {
+      "id": "d92dbc06a4b3e5a8",
+      "title": "GDP Growth Rate: कैसे हुई GDP की गणना, इस साल क्यों बदली? | Rahul Gandhi | Congress | Indian Economy",
+      "summary": "GDP Growth Rate: कैसे हुई GDP की गणना, इस साल क्यों बदली? | Rahul Gandhi | Congress | Indian Economy",
+      "link": "https://www.youtube.com/watch?v=Yr3U7mXBPbw",
+      "source": "India TV",
+      "category": "Business",
+      "media": {
+        "image": "https://img.youtube.com/vi/Yr3U7mXBPbw/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=Yr3U7mXBPbw",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T18:39:11.000Z"
+    },
+    {
+      "id": "e87d7dfb3d0f9464",
+      "title": "#aajkibaat : अब लद्दाख की बंजर जमीन पर होगी खेती | #ladakh #ladakhnews #vksaxena #indiatv #shorts",
+      "summary": "#aajkibaat : अब लद्दाख की बंजर जमीन पर होगी खेती | #ladakh #ladakhnews #vksaxena #indiatv #shorts",
+      "link": "https://www.youtube.com/shorts/0u7HlgnAERI",
+      "source": "India TV",
+      "category": "National",
+      "media": {
+        "image": "https://i.ytimg.com/vi/0u7HlgnAERI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAtj2MoM7xYTGZIAy5k5KDceFZxNg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:32:54.000Z"
+    },
+    {
+      "id": "461335374a7e55e6",
+      "title": "#aajkibaat : नेपाल से बिहार आई मछलियां खाने पर क्यों लगी रोक? |  #nepalflood #nepalflashflood",
+      "summary": "#aajkibaat : नेपाल से बिहार आई मछलियां खाने पर क्यों लगी रोक? | #nepalflood #nepalflashflood",
+      "link": "https://www.youtube.com/shorts/U7Zzxviye6U",
+      "source": "India TV",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/U7Zzxviye6U/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD_Lga-G3Mq1sOv744FGrHi_gTXXA",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:31:20.000Z"
+    },
+    {
+      "id": "1d4398819ce4fc0d",
+      "title": "Aaj Ki Baat Show के आज के Highlights | 02 September August 2026 | Ram Mandir CEO | Ayodhya | Nepal",
+      "summary": "Aaj Ki Baat Show के आज के Highlights | 02 September August 2026 | Ram Mandir CEO | Ayodhya | Nepal",
+      "link": "https://www.youtube.com/watch?v=cpDNJC1k2XI",
+      "source": "India TV",
+      "category": "World",
+      "media": {
+        "image": "https://img.youtube.com/vi/cpDNJC1k2XI/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=cpDNJC1k2XI",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T18:30:38.000Z"
+    },
+    {
+      "id": "fd0bc6ab31144f58",
+      "title": "#aajkibaat : नेपाल तबाही का बालेन शाह ने किसे बताया जिम्मेदार? | #nepalflood #nepal #balenshah",
+      "summary": "#aajkibaat : नेपाल तबाही का बालेन शाह ने किसे बताया जिम्मेदार? | #nepalflood #nepal #balenshah",
+      "link": "https://www.youtube.com/shorts/dMPpMBrWcuw",
+      "source": "India TV",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/dMPpMBrWcuw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLANDA2cqr-6dLuUfB3tmtW1u2c1Zw",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:28:50.000Z"
+    },
+    {
+      "id": "e7be8b951fdc0f83",
+      "title": "India's Bold Shift: SCO Statement Condemns US and Israel's Actions Against Iran | News18",
+      "summary": "| Leaders of the Shanghai Cooperation Organisation (SCO) have condemned military strikes on Iranian territory and called for the conflict to be resolved through political and diplomatic means.The declaration, adopted at the SCO summit in Bishkek, expressed deep concern over developments in the Middle East and around Iran, warning that military acti",
+      "link": "https://www.news18.com/videos/india/india-s-bold-shift-sco-statement-condemns-us-and-israel-s-actions-against-iran-news18-10307136.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/1788373922_0de519aa-5a0d-43bb-9cb5-f06f1a056b83-1200x675.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:28:11.000Z"
+    },
+    {
+      "id": "92a1160d81497235",
+      "title": "#aajkibaat : अब नशा रोकेंगे ओवैसी, कैसे करेंगे युवाओं का मदद? | #owaisinews #antidrugscampaign",
+      "summary": "#aajkibaat : अब नशा रोकेंगे ओवैसी, कैसे करेंगे युवाओं का मदद? | #owaisinews #antidrugscampaign",
+      "link": "https://www.youtube.com/shorts/FM9zSxRNzFQ",
+      "source": "India TV",
+      "category": "Technology",
+      "media": {
+        "image": "https://i.ytimg.com/vi/FM9zSxRNzFQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDUmYRRSK_knbm9qI6KxoShdKrQ9w",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:24:57.000Z"
+    },
+    {
+      "id": "8f77594b2ea9b2ef",
+      "title": "#aajkibaat: श्रीनगर में सड़क पर हंगामा क्यों हुआ? | #bjpprotest #bjpprotestkashmir #srinagar #shorts",
+      "summary": "#aajkibaat: श्रीनगर में सड़क पर हंगामा क्यों हुआ? | #bjpprotest #bjpprotestkashmir #srinagar #shorts",
+      "link": "https://www.youtube.com/shorts/Y_ipItC_qqs",
+      "source": "India TV",
+      "category": "Politics",
+      "media": {
+        "image": "https://i.ytimg.com/vi/Y_ipItC_qqs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLALfhLyR10vn94J-Wu0nqXbvyXr8Q",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:22:36.000Z"
+    },
+    {
+      "id": "6076a6bd159b49ab",
+      "title": "#aajkibaat : देवभूमि में 'मॉडर्न' मदरसों को मिली मान्यता | #madarsaeducation #uttarakhand #shorts",
+      "summary": "#aajkibaat : देवभूमि में 'मॉडर्न' मदरसों को मिली मान्यता | #madarsaeducation #uttarakhand #shorts",
+      "link": "https://www.youtube.com/shorts/TVzS1kfdt5Y",
+      "source": "India TV",
+      "category": "Crime",
+      "media": {
+        "image": "https://i.ytimg.com/vi/TVzS1kfdt5Y/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCvgw_aZaKVyazET5YqfmqfbcoHLQ",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:20:58.000Z"
+    },
+    {
+      "id": "3fb9a83ee8161b3f",
+      "title": "Heavy Flood Alert In 6 States India LIVE: 6 राज्यों में तबाही का अलर्ट..तस्वीरें देख चौंक जाएंगे!",
+      "summary": "Heavy Flood Alert In 6 States India LIVE: 6 राज्यों में तबाही का अलर्ट..तस्वीरें देख चौंक जाएंगे!",
+      "link": "https://www.youtube.com/watch?v=pm7UhXV5eAo",
+      "source": "Zee News",
+      "category": "National",
+      "media": {
+        "image": "https://img.youtube.com/vi/pm7UhXV5eAo/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=pm7UhXV5eAo",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T18:19:36.000Z"
+    },
     {
       "id": "aHR0cHM6Ly93d3cu",
       "title": "#aajkibaat : चुनाव से पहले आसिम वकार ने थामा कांग्रेस का दामन | #asimwaqar #owaisi #upelection2027",
@@ -15,6 +575,286 @@
         "videoType": null
       },
       "publishedAt": "2026-09-02T18:19:13.000Z"
+    },
+    {
+      "id": "7a7b26d58d063f29",
+      "title": "#aajkibaat : चुनाव से पहले आसिम वकार ने थामा कांग्रेस का दामन | #asimwaqar #owaisi #upelection2027",
+      "summary": "#aajkibaat : चुनाव से पहले आसिम वकार ने थामा कांग्रेस का दामन | #asimwaqar #owaisi #upelection2027",
+      "link": "https://www.youtube.com/shorts/mBP6CYCCxw8",
+      "source": "India TV",
+      "category": "Technology",
+      "media": {
+        "image": "https://i.ytimg.com/vi/mBP6CYCCxw8/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDVDDD4xNUE6n7GoFQKPL0JubfGJQ",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T18:19:13.000Z"
+    },
+    {
+      "id": "43c9cb0e650f8e8f",
+      "title": "'Cancel Deal Or We'll Kill You': Video Shows Pune Sons Thrashing Parents On Road Over Land Sale",
+      "summary": "The father suffered injuries to his back, face, thighs and shoulder, while his wife sustained injuries to her wrist and waist, police said.",
+      "link": "https://www.news18.com/india/cancel-deal-or-well-kill-you-video-shows-pune-sons-thrashing-parents-on-road-over-land-sale-ws-l-10307048.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/pune-2026-09-8146666b4bbfe8a6ecd9606e1bc7acc0-1200x675.jpg",
+        "video": "https://t.co/kV5jb9TWue",
+        "videoType": "twitter"
+      },
+      "publishedAt": "2026-09-02T17:57:20.000Z"
+    },
+    {
+      "id": "95b37251247945ef",
+      "title": "Abhinandan Varthaman, Who Downed Pakistani F-16 In 2019, Joins Goa-Based FLY91 As Commercial Pilot",
+      "summary": "Former IAF Group Captain Abhinandan Varthaman has joined regional airline FLY91 as a commercial pilot and is currently undergoing training.",
+      "link": "https://www.news18.com/india/abhinandan-varthaman-who-downed-pakistani-f-16-in-2019-joins-goa-based-fly91-as-commercial-pilot-10307060.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/ABHINANDHAN-2026-09-476a7516bf016c400b56518b383c92a5-1200x675.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T17:55:34.000Z"
+    },
+    {
+      "id": "5a5ff4afed3a3f7c",
+      "title": "Retired Air Marshal Jeetendra Mishra Named Ram Temple Trust’s First CEO | #rawreport | News18",
+      "summary": "Air Marshal Jitendra Mishra has been appointed as the first full-time CEO of the Ram Mandir Trust amid allegations of donation theft. His military background and administrative experience aim to restore trust and enhance temple operations following serious lapses. n18oc_india News18 Mobile App - https://onelink.to/desc-youtube",
+      "link": "https://www.news18.com/videos/india/retired-air-marshal-jeetendra-mishra-named-ram-temple-trust-s-first-ceo-rawreport-news18-10307068.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/1788371222_c447e38b-d113-47f3-9d7b-4eed1936f5ad-1200x675.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T17:39:36.000Z"
+    },
+    {
+      "id": "cfdfaf6f8ea24fa7",
+      "title": "BRICS Summit 2026: Delhi Traffic Diversions On September 3 | Check Roads, Diversions, Alternate Routes",
+      "summary": "The Delhi traffic advisory lists 22 diversion points and says over 35 roads will be regulated on September 3.",
+      "link": "https://www.news18.com/cities/new-delhi-news/brics-summit-2026-delhi-traffic-diversions-on-september-3-check-roads-diversions-alternate-routes-10306990.html",
+      "source": "News18 India",
+      "category": "Crime",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/05/delhi-police-traffic-advisory-3-2026-05-fea65340588eec0491852e2dcc7fe08f-1200x675.png",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T17:28:49.000Z"
+    },
+    {
+      "id": "e26333ef03aafb7c",
+      "title": "Smash This Anti-Hindu Hate: Sanatan Put In The Dock But Not Islamic 'Bigotry' | The Hard Facts",
+      "summary": "A heated debate over religion, identity and political discourse in India takes center stage as statements involving Swara Bhaskar, a Mufti from Kerala, and Farooq Abdullah come under scrutiny.The discussion examines why criticism of Sanatan traditions can trigger intense political backlash, while controversial statements involving Islam and Islamic",
+      "link": "https://www.news18.com/videos/politics/smash-this-anti-hindu-hate-sanatan-put-in-the-dock-but-not-islamic-bigotry-the-hard-facts-10307036.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/1788369481_3486228d-bf91-4944-9291-c1dca41eb29a-1200x675.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T17:01:31.000Z"
+    },
+    {
+      "id": "1febf01c8e951f6d",
+      "title": "'Alarming Apathy Of Authorities': India Slams Pakistan Over Demolition Of Century-Old Hindu Temple",
+      "summary": "The 100- to 125-year-old temple, located in Siraj village in Narowal district, was allegedly demolished by a group of religious extremists.",
+      "link": "https://www.news18.com/india/reprehensible-act-of-vandalism-india-slams-pakistan-over-hindu-temple-demolition-demands-probe-10306905.html",
+      "source": "News18 India",
+      "category": "Crime",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/hindu-temple-2026-09-40e16d67705b919d6bb7a0755d585e25-1200x675.jpg",
+        "video": "https://t.co/jPd7WzGdUD",
+        "videoType": "twitter"
+      },
+      "publishedAt": "2026-09-02T16:56:34.000Z"
+    },
+    {
+      "id": "683f0dee1fe3b35c",
+      "title": "Parandur Airport Row: Vijay Keeps Poll Promise, BJP Warns of Development Setback | The Right Stand",
+      "summary": "Tamil Nadu Chief Minister C. Joseph Vijay has announced that his government will abandon the proposed Parandur Greenfield Airport project, putting an end to the controversial plan for a second airport near Chennai. Vijay made the announcement in the state Assembly, saying the project would have an unacceptable impact on agricultural land, farmers a",
+      "link": "https://www.news18.com/videos/the-right-stand/parandur-airport-row-vijay-keeps-poll-promise-bjp-warns-of-development-setback-the-right-stand-10306993.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/1788367623_0da31ce3-278d-478f-bbd9-d68e50d684a4-1200x675.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T16:39:11.000Z"
+    },
+    {
+      "id": "f81ee6f6ee22596f",
+      "title": "Farooq Abdullah Stirs Row: ‘Why No Threat To Hindu Police Officers? | Kashmiri Pandit Threat  Row",
+      "summary": "National Conference president Farooq Abdullah has alleged that recent threats targeting Kashmiri Pandit employees are part of a “conspiracy\" aimed at keeping Jammu and Kashmir from regaining statehood. He also questioned why senior Hindu police officers serving in the Union Territory were not facing similar threats.Farooq Abdullah Questions Threats",
+      "link": "https://www.news18.com/videos/india/farooq-abdullah-stirs-row-why-no-threat-to-hindu-police-officers-kashmiri-pandit-threat-row-10306994.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/1788367622_4bc1653e-8808-4995-ba21-fc042920f836-1200x675.jpeg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T16:38:01.000Z"
+    },
+    {
+      "id": "e83b66544c6ae30d",
+      "title": "UP Girl Dies 10 Days After Teacher Twisted Her Arm Over Exam Cheating Complaint, 2 Teachers Suspended",
+      "summary": "A 13-year-old Class 8 student in Hardoi died 10 days after she was allegedly assaulted by a teacher during an exam, with police and education officials investigating the case.",
+      "link": "https://www.news18.com/india/up-girl-dies-10-days-after-teacher-twisted-her-arm-over-exam-cheating-complaint-2-teachers-suspended-10306895.html",
+      "source": "News18 India",
+      "category": "Technology",
+      "media": {
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/hardoi-2026-09-368e8260e5b8d1c6b0ddd5681973a726-1200x675.jpg",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T16:10:09.000Z"
+    },
+    {
+      "id": "8998cdff11cad4e1",
+      "title": "Ram Mandir CEO Announcement Live | राम मंदिर के सीईओ को लेकर बड़़ा ऐलान | Breaking News | Aaj Tak",
+      "summary": "Ram Mandir CEO Announcement Live | राम मंदिर के सीईओ को लेकर बड़़ा ऐलान | Breaking News | Aaj Tak",
+      "link": "https://www.youtube.com/watch?v=WD34lxAv_sE",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/WD34lxAv_sE/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=WD34lxAv_sE",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T11:19:27.000Z"
+    },
+    {
+      "id": "7dbbb9fc45b0f6ed",
+      "title": "AAJTAK 2 LIVE | IRAN-US WAR | तगड़ा हमला कहां-कहां मची तबाही? | AT2 LIVE",
+      "summary": "AAJTAK 2 LIVE | IRAN-US WAR | तगड़ा हमला कहां-कहां मची तबाही? | AT2 LIVE",
+      "link": "https://www.youtube.com/watch?v=Taj0NJ51950",
+      "source": "Aaj Tak",
+      "category": "World",
+      "media": {
+        "image": "https://img.youtube.com/vi/Taj0NJ51950/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=Taj0NJ51950",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T10:55:46.000Z"
+    },
+    {
+      "id": "6b1f8ddc9fb40f66",
+      "title": "Argentina jersey में Lionel Messi का आखिरी सफर  #shorts #latest #aajtakdigital",
+      "summary": "Argentina jersey में Lionel Messi का आखिरी सफर #shorts #latest #aajtakdigital",
+      "link": "https://www.youtube.com/shorts/JIopc_hZJcU",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/JIopc_hZJcU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLApLxMabYcU-mOLYXu0ZOXrC1PocQ&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T10:00:05.000Z"
+    },
+    {
+      "id": "d10305503e2b4c43",
+      "title": "Uttar Pradesh Flood Alert: प्रयागराज में गंगा-यमुना उफान पर, रिहायशी इलाकों में घुसा बाढ़ का पानी",
+      "summary": "Uttar Pradesh Flood Alert: प्रयागराज में गंगा-यमुना उफान पर, रिहायशी इलाकों में घुसा बाढ़ का पानी",
+      "link": "https://www.youtube.com/watch?v=w8EoTBueVQE",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://img.youtube.com/vi/w8EoTBueVQE/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=w8EoTBueVQE",
+        "videoType": "youtube"
+      },
+      "publishedAt": "2026-09-02T09:57:34.000Z"
+    },
+    {
+      "id": "530791a5c2bad6b3",
+      "title": "Bihar: CM Samrat ने स्वास्थ्य गाड़ियों को दिखाई हरी झंडी #bihar #health #campaign #shorts #aajtak",
+      "summary": "Bihar: CM Samrat ने स्वास्थ्य गाड़ियों को दिखाई हरी झंडी #bihar #health #campaign #shorts #aajtak",
+      "link": "https://www.youtube.com/shorts/hnbk6BMhH6U",
+      "source": "Aaj Tak",
+      "category": "Technology",
+      "media": {
+        "image": "https://i.ytimg.com/vi/hnbk6BMhH6U/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB0DEyWFtWR3LPGoXQkfrTdEIj8VQ&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:45:21.000Z"
+    },
+    {
+      "id": "a5cbed027b0bb186",
+      "title": "Nepal Rescue Operation: नेपाल टनल बनी ज़िंदगी- मौत का जाल! #nepalflood #rescue #aajtak",
+      "summary": "Nepal Rescue Operation: नेपाल टनल बनी ज़िंदगी- मौत का जाल! #nepalflood #rescue #aajtak",
+      "link": "https://www.youtube.com/shorts/12IEqn-6zw0",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/12IEqn-6zw0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDxpJvOGTthwSQAYuZSbQcBWrI1FA&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:44:06.000Z"
+    },
+    {
+      "id": "0985428d8181d580",
+      "title": "Uttar Pradesh: 20 लाख कर्मचारियों के लिए CM Yogi का ऐलान #shorts #latest #aajtakdigital",
+      "summary": "Uttar Pradesh: 20 लाख कर्मचारियों के लिए CM Yogi का ऐलान #shorts #latest #aajtakdigital",
+      "link": "https://www.youtube.com/shorts/hfHe3hiFBgA",
+      "source": "Aaj Tak",
+      "category": "Politics",
+      "media": {
+        "image": "https://i.ytimg.com/vi/hfHe3hiFBgA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAdhiHhWgzRz8Qp4rqt8mYVxqK9Rg&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:42:53.000Z"
+    },
+    {
+      "id": "ca4af24fb8a4a442",
+      "title": "Uttar Pradesh में आउटसोर्स कर्मचारियों को बड़ी सौगात #shorts #latest #aajtakdigital",
+      "summary": "Uttar Pradesh में आउटसोर्स कर्मचारियों को बड़ी सौगात #shorts #latest #aajtakdigital",
+      "link": "https://www.youtube.com/shorts/vOQdNFMI5is",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/vOQdNFMI5is/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDaXt8yn1HeJfRmi1am3hKMmJYTbQ&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:42:35.000Z"
+    },
+    {
+      "id": "35d0e5c7951d66fb",
+      "title": "Uttrakhand में कई जगहों पर भूस्खलन #shorts #latest #aajtakdigital",
+      "summary": "Uttrakhand में कई जगहों पर भूस्खलन #shorts #latest #aajtakdigital",
+      "link": "https://www.youtube.com/shorts/0Q6z52zR0rg",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/0Q6z52zR0rg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAvA_-l_uqbhB080klXug0k2k_pTA&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:42:20.000Z"
+    },
+    {
+      "id": "09e7c8ada07d7e9e",
+      "title": "Uttrakhand में भारी बारिश से गंभीर हालात  #shorts #latest #aajtakdigital",
+      "summary": "Uttrakhand में भारी बारिश से गंभीर हालात #shorts #latest #aajtakdigital",
+      "link": "https://www.youtube.com/shorts/d8PgY-IG7FQ",
+      "source": "Aaj Tak",
+      "category": "General News",
+      "media": {
+        "image": "https://i.ytimg.com/vi/d8PgY-IG7FQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDRObkM4HwyXWYyddTPs_su3T2MpA&usqp=CCk",
+        "video": null,
+        "videoType": null
+      },
+      "publishedAt": "2026-09-02T09:41:58.000Z"
     }
   ]
 }
