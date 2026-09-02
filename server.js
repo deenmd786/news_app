@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const { fetchAllNews } = require('./src/services/newsService');
 const { saveNewsData, getLatestNews } = require('./src/utils/fileManager');
-const { pushToGitHub } = require('./src/services/githubService'); // Import GitHub Service
+const { pushToGitHub } = require('./src/services/githubService');
 
 const app = express();
 const PORT = process.env.PORT || 4000;
